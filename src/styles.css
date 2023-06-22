@@ -1,0 +1,16 @@
+html {
+  max-width: 70ch;
+  padding: 1em;
+  margin: auto;
+  font-size: 1.25em;
+  font-family: sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  margin: 0;
+}
